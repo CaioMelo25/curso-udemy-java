@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "request": "launch",
+        "name": "Executar Aplicação",
+        "mainClass": "application.Program", 
+        "projectName": "curso",
+        "modulePaths": ["${workspaceFolder}/bin"],
+        "classPaths": ["${workspaceFolder}/bin"]
+      }
+    ]
+  }
+  
